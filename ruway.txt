@@ -59,6 +59,6 @@ git show                                //me muestra el lugar donde esta la rama
 git branch -nombre de rama-             //crea una nueva rama
 git checkout - nombre de la rama-       //salta de una rama a otra
 git checkout -b rama                    //crea una rama y salta a ella
-git merche -rama a unir-                //trae a la rama master los cambios hechos en otras rama
+git merge -rama a unir-                //trae a la rama master los cambios hechos en otras rama
 
 
