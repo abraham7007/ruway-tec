@@ -60,6 +60,12 @@ git branch                              //muestra todas las ramas creadas
 git branch -nombre de rama-             //crea una nueva rama
 git checkout - nombre de la rama-       //salta de una rama a otra
 git checkout -b rama                    //crea una rama y salta a ella
-git merge -rama a unir-                //trae a la rama master los cambios hechos en otras rama
+git merge -rama a unir-  "mensaje       //trae a la rama master los cambios hechos en otras rama y agregar un msj porque es un commit 
 
+USO DE GIT
+
+git remote add origin url               //Trae un repositorio remoto a nuestro repositorio local
+git remote                              //nos muestra el repositorio origin de github
+git pull origin master                  //trae todos los cambios realziados en el origin sino hacemos esto nos genera error
+git push origin master                  //envia todo a nuestro repositorio remoto 
 

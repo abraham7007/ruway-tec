@@ -1,0 +1,48 @@
+# Discovered Components
+
+This is an auto-generated list of components discovered by [nuxt/components](https://github.com/nuxt/components).
+
+You can directly use them in pages and other components without the need to import them.
+
+**Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
+
+- `<AboutOne>` | `<about-one>` (components/AboutOne.vue)
+- `<AboutTwo>` | `<about-two>` (components/AboutTwo.vue)
+- `<AccordionStyleOne>` | `<accordion-style-one>` (components/AccordionStyleOne.vue)
+- `<BlogDetailsWrapper>` | `<blog-details-wrapper>` (components/BlogDetailsWrapper.vue)
+- `<BlogSection>` | `<blog-section>` (components/BlogSection.vue)
+- `<BlogWrapper>` | `<blog-wrapper>` (components/BlogWrapper.vue)
+- `<BrandLogoSection>` | `<brand-logo-section>` (components/BrandLogoSection.vue)
+- `<CommentForm>` | `<comment-form>` (components/CommentForm.vue)
+- `<CommentList>` | `<comment-list>` (components/CommentList.vue)
+- `<ContactDevider>` | `<contact-devider>` (components/ContactDevider.vue)
+- `<ContactWrapper>` | `<contact-wrapper>` (components/ContactWrapper.vue)
+- `<FaqOne>` | `<faq-one>` (components/FaqOne.vue)
+- `<FeatureList>` | `<feature-list>` (components/FeatureList.vue)
+- `<Footer>` | `<footer>` (components/Footer.vue)
+- `<FooterTwo>` | `<footer-two>` (components/FooterTwo.vue)
+- `<FunFactOne>` | `<fun-fact-one>` (components/FunFactOne.vue)
+- `<Header>` | `<header>` (components/Header.vue)
+- `<HeroSlider>` | `<hero-slider>` (components/HeroSlider.vue)
+- `<MobileNavigation>` | `<mobile-navigation>` (components/MobileNavigation.vue)
+- `<Navigation>` | `<navigation>` (components/Navigation.vue)
+- `<OffCanvasMobileMenu>` | `<off-canvas-mobile-menu>` (components/OffCanvasMobileMenu.vue)
+- `<PageTitle>` | `<page-title>` (components/PageTitle.vue)
+- `<Pagination>` | `<pagination>` (components/Pagination.vue)
+- `<PortfolioDetailsWrapper>` | `<portfolio-details-wrapper>` (components/PortfolioDetailsWrapper.vue)
+- `<PortfolioSection>` | `<portfolio-section>` (components/PortfolioSection.vue)
+- `<PortfolioWrapper>` | `<portfolio-wrapper>` (components/PortfolioWrapper.vue)
+- `<PostAuthorInfo>` | `<post-author-info>` (components/PostAuthorInfo.vue)
+- `<ServiceCategoryWidget>` | `<service-category-widget>` (components/ServiceCategoryWidget.vue)
+- `<ServiceDetailsWrapper>` | `<service-details-wrapper>` (components/ServiceDetailsWrapper.vue)
+- `<ServiceItem>` | `<service-item>` (components/ServiceItem.vue)
+- `<ServiceOne>` | `<service-one>` (components/ServiceOne.vue)
+- `<ServiceWrapper>` | `<service-wrapper>` (components/ServiceWrapper.vue)
+- `<ShapeWithAnimation>` | `<shape-with-animation>` (components/ShapeWithAnimation.vue)
+- `<TeamSection>` | `<team-section>` (components/TeamSection.vue)
+- `<TestimonialOne>` | `<testimonial-one>` (components/TestimonialOne.vue)
+- `<WidgetRecentPost>` | `<widget-recent-post>` (components/WidgetRecentPost.vue)
+- `<WidgetSearch>` | `<widget-search>` (components/WidgetSearch.vue)
+- `<WidgetSocial>` | `<widget-social>` (components/WidgetSocial.vue)
+- `<WidgetTags>` | `<widget-tags>` (components/WidgetTags.vue)
+- `<WidgetVideo>` | `<widget-video>` (components/WidgetVideo.vue)
