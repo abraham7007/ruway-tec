@@ -69,3 +69,11 @@ git remote                              //nos muestra el repositorio origin de g
 git pull origin master                  //trae todos los cambios realziados en el origin sino hacemos esto nos genera error
 git push origin master                  //envia todo a nuestro repositorio remoto 
 
+
+A TENER EN CUENTA
+    GiHub en octunre 2020 decide cambiar la rama 'master' a rama 'main'; lo que significa que han cambiado los comandos
+
+git push origin master                  //En GiHub se interpreta como una rama independiente llamada 'master' 
+                                        //no se carga a la rama default de GitHub, debido a que su rama default ahora se llama 'main'
+git push origin master:main             //envie a origin(remoto) la rama 'master' de nuestro repositorio local a la rama 'main' del servidor
+git pull origin main --allow-unrelated-histories
