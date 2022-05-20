@@ -14,20 +14,33 @@ checkout                        // extrae los combios realizados
 
 COMANDOS BASICOS DE GIT
 
-git init                        //crea u nrepositorio
+git init                        //crea un nrepositorio
 git add archivo.extension       //agrega el archivo al repositorio temporal
 git commit -m "Mensaje"         //agregamos los cambios al repositorio
 git add .                       //agregamos todos los cambios del repositorio
 git status                      //visualiza los cambios realizados
+git shortlog -i                 //indica que commits ha realizado un usuario, mostrando el usuario y el titulo de sus commits.
 git log nombreArchivo           //Muestra el historico de cambios del archivo
-git log --stat                  //muestra los cambios especificos deacuerdo a cada commit 
+git log --oneline               //Te muestra el id commit y el titulo del commit.
+git log --decorate              //Te muestra donde se encuentra el head point en el log.
+git log --stat                  //Explica el numero de lineas que se cambiaron brevemente.
+git log -p                      //Explica el numero de lineas que se cambiaron y te muestra que se cambio en el contenido.
+git log --graph --oneline       //resumido y mas ordenado
+git log -3                      //Limitamos el numero de commits.
+git log --after="2018-1-2"      //Commits para localizar por fechas.
+git log --after="today"         //Commits para localizar por fechas.
+git log --author="Name Author"  //Commits realizados por autor que cumplan exactamente con el nombre.
+git log --grep="INVIE"          //Busca los commits que cumplan tal cual esta escrito entre las comillas.
+git log --grep="INVIE" -i-      //Busca los commits que cumplan sin importar mayusculas o minusculas.
+git log  nombreArchivo          //Busca los commits en un archivo en especifico.
+git log -S "Por contenido"      //Buscar los commits con el contenido dentro del archivo.
+git log > log.txt               //guardar los logs en un archivo txt
 git push                        //envia el repositorio a otro remoto
 git pull                        //trae un repositorio remoto
 git rm --cached nombreArchivo   //Elimina los archivos de nuestro repositorio local y del area stating, mantiene en el disco duro 
 git rm --force nombreArchivo    //Elimina el archivo y del disco duro, pero lo podemos recuperar con comandos avanzados
 git config --list               //muestra la lista de configuracion de git
 git config --list --show-origin //rutas de acceso a la configuracion de git
-
 
 
 
@@ -39,4 +52,11 @@ git reset --hard IDcommit               //elimina los cambios futuros  y no guar
 git reset HEAD                          //quita del Staging Area el archivo y lo deja en Working Directory 
 git checkout IDcommit nombreArchivo     //Permite volver el archivo a un estado de acuerdo al IDcommit
 git checkout master nombreArchivo       //devuelve el archivo a la version master del archivo la cual es la ultima version 
+
+RAMAS O BRANCHES DE GIT
+
+git show                                //me muestra el lugar donde esta la rama principal
+git branch -nombre de rama-             //crea una nueva rama
+git checkout - nombre de la rama-       //salta de una rama a otra
+git checkout -b rama                    //crea una rama y salta a ella
 
