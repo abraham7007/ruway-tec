@@ -56,6 +56,7 @@ git checkout master nombreArchivo       //devuelve el archivo a la version maste
 RAMAS O BRANCHES DE GIT
 
 git show                                //me muestra el lugar donde esta la rama principal
+git branch                              //muestra todas las ramas creadas
 git branch -nombre de rama-             //crea una nueva rama
 git checkout - nombre de la rama-       //salta de una rama a otra
 git checkout -b rama                    //crea una rama y salta a ella
