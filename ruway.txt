@@ -1,0 +1,21 @@
+COMANDOS BASICOS DE GIT
+
+git init // crea u nrepositorio
+git add archivo.extension // agrega el archivo al repositorio temporal
+git commit -m "Mensaje" // agregamos los cambios al repositorio
+git add . //agregamos todos los cambios del repositorio
+git status // visualiza los cambios realizados
+git log nombreArchivo // Muestra el historico de cambios del archivo
+git push // envia el repositorio a otro remoto
+git pull // trae un repositorio remoto
+pwd      // ubicacion de la carpeta actual
+mkdir nombreCarpeta // Crea una carpeta en la ubicacion actual
+rm nombreArchivo // Elimina el archivo 
+touch nombreArchivo // Crea un archivo 
+cat nombreArchivo // muestra el contenido del archivo
+history // historial de comandos utilizados
+nombreComando --help // muestra ayuda sobre el comando en mencion
+checkout  // extrae los combios realizados
+git rm --cached nombreArchivo   // devuelve el archivo que se tiene en ram cuando lo mandamos con git add a un estado natural mientras esta en staging
+git config --list   // muestra la lista de configuracion de git
+git config --list --show-origin //rutas de acceso a la configuracion de git
