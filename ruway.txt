@@ -77,3 +77,22 @@ git push origin master                  //En GiHub se interpreta como una rama i
                                         //no se carga a la rama default de GitHub, debido a que su rama default ahora se llama 'main'
 git push origin master:main             //envie a origin(remoto) la rama 'master' de nuestro repositorio local a la rama 'main' del servidor
 git pull origin main --allow-unrelated-histories
+
+
+CONFIGURAR LLAVE SSH EN local
+
+1. Generar tus llaves SSH               
+ssh-keygen -t rsa -b 4096 -C "tu@email.com"
+2. Terminar de configurar nuestro sistema en Windows y Linux
+    Encender el "servidor" de llaves SSH de tu computadora:
+    eval $(ssh-agent -s)
+    Anadir tu llave SSH a este servidor
+    ssh-add ruta-donde-guardar-tu-llave-privada
+
+
+CONEXION A GITHUB CON SSH
+
+1. Agregamos en nuestro rpeositorio remoto de GiHub nuestra llave publica en settings
+2. cambiamos la url de nuestro repositorio remoto con
+    git remote set-url 
+    git remote -v                       //Muestra las url a donde tenemos conectada nuestro repositorio.
