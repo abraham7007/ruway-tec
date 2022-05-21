@@ -94,5 +94,16 @@ CONEXION A GITHUB CON SSH
 
 1. Agregamos en nuestro rpeositorio remoto de GiHub nuestra llave publica en settings
 2. cambiamos la url de nuestro repositorio remoto con
-    git remote set-url 
+    git remote set-url origin urlSSH
     git remote -v                       //Muestra las url a donde tenemos conectada nuestro repositorio.
+
+TAGS Y VERSIONES EN GIT Y GITHUB
+
+git log --all --graph --decorate --oneline
+alias nombreAlias="git log --all --graph --decorate --oneline"  //con esto creamos un alias para acceder a ese comando de forma mas rapida
+git tag -a nombreTag -m "mensaje" IDcommit                      //Crea un nuevo tag y asignarlo a un commit
+git tag -d nombreTag                                            //Borrar un tag en el repositorio local
+git tag o got show-ref --tags                                   //Lista los tags de nuestro repositorio local 
+git push origin --tags                                          //Publicar un tag en el repositorio remoto 
+git push origin :refs/tags/nombreTAG                            //Elimina el tags en el repositorio remoto
+
