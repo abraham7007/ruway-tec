@@ -21,21 +21,10 @@
             <n-link to="/project">Proyectos</n-link>
             <ul class="submenu-nav">
                 <li>
-                    <n-link to="/project">Proyestos</n-link>
+                    <n-link to="/project">Proyectos</n-link>
                 </li>
                 <li>
                     <n-link to="/project-details">Detalles de Proyectos</n-link>
-                </li>
-            </ul>
-        </li>
-        <li class="has-submenu">
-            <n-link to="/blog">Blog</n-link>
-            <ul class="submenu-nav">
-                <li>
-                    <n-link to="/blog">Blog</n-link>
-                </li>
-                <li>
-                    <n-link to="/blog-details">Detalles de Blog</n-link>
                 </li>
             </ul>
         </li>

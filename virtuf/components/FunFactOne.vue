@@ -31,7 +31,7 @@
                         <div class="col-6 col-sm-6">
                             <div class="funfact-item mt-20" data-aos="fade-up" data-aos-duration="1200">
                                 <div class="number">
-                                    <h2><span class="counter-animate">8</span></h2>
+                                    <h2><span class="counter-animate">18</span></h2>
                                 </div>
                                 <p class="title">Proyectos de alto impacto</p>
                             </div>

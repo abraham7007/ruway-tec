@@ -30,17 +30,6 @@
                         </li>
                     </ul>
                 </li>
-                <li class="has-children">
-                    <n-link to="/blog">Blog</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/blog">Blog</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/blog-details">Detalles de Blog</n-link>
-                        </li>
-                    </ul>
-                </li>
                 <li>
                     <n-link to="/contact">Contactos</n-link>
                 </li>

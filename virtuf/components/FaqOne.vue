@@ -5,7 +5,7 @@
                 <div class="col-lg-8">
                     <div class="faq-content" data-aos="fade-up" data-aos-duration="1100">
                         <div class="section-title xs-text-center">
-                            <h2 class="title text-white">¡Estás confundido! Preguntas & <span class="bottom-color-style2">Respuestas.</span></h2>
+                            <h2 class="title text-white">Preguntas & <span class="bottom-color-style2">Respuestas.</span></h2>
                         </div>
                         <div class="accordion-content">
                             <AccordionStyleOne />

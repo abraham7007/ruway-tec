@@ -1,5 +1,5 @@
 <template>
-    <section class="brand-logo-area brand-logo-default-area" :style="{ backgroundImage: `url('/images/photos/bg-brand.jpg')` }">
+    <section class="brand-logo-area brand-logo-default-area" :style="{ backgroundImage: `url('/images/photos/bg_brand.jpg')` }">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-xl-5">
@@ -9,7 +9,7 @@
                             <h5>Socio de confianza</h5>
                         </div>
                         <h2 class="title text-white mb-lg-40 mb-80">Trabajamos continuamente con nuestro <span>Socios.</span></h2>
-                        <a href="#" class="btn btn-theme btn-border">Únete a nosotros hoy <i class="icon icofont-long-arrow-right"></i></a>
+                        <a href="contact" class="btn btn-theme btn-border">Únete a nosotros hoy <i class="icon icofont-long-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-xl-6 offset-xl-1">
@@ -26,10 +26,10 @@
             </div>
         </div>
         <div class="layer-shape">
-            <img class="shape-style1" src="/images/shape/11.png" alt="image">
-            <img class="shape-style2" src="/images/shape/12.png" alt="image">
-            <img class="shape-style3" src="/images/shape/13.png" alt="image">
-            <img class="shape-style4" src="/images/shape/14.png" alt="image">
+            <img class="shape-style1" src="/images/shape/a2.png" alt="image">
+            <img class="shape-style2" src="/images/shape/a2.png" alt="image">
+            <img class="shape-style3" src="/images/shape/a2.png" alt="image">
+            <img class="shape-style4" src="/images/shape/a2.png" alt="image">
         </div>
     </section>
 </template>
@@ -40,7 +40,7 @@
             return {
                 logos: [
                     {
-                        logoSrc:"/images/brand-logo/ACME.png",
+                        logoSrc:"/images/brand-logo/TUMI.png",
                         alt: "logo 01"
                     },
                     {
@@ -60,7 +60,7 @@
                         alt: "logo 05"
                     },
                     {
-                        logoSrc:"/images/brand-logo/6.png",
+                        logoSrc:"/images/brand-logo/66.png",
                         alt: "logo 06"
                     },
                 ]

@@ -10,7 +10,7 @@
                                     <img class="icon-img" src="/images/icons/c1.png" alt="Icon">
                                 </div>
                                 <div class="content">
-                                    <h4>Llamanos</h4>
+                                    <h4>Llámanos</h4>
                                     <img class="line-icon" src="/images/shape/line-s1.png" alt="Icon">
                                     <a href="tel://0123456789">(+51) 999 137 322</a>
                                     
@@ -21,7 +21,7 @@
                                     <img class="icon-img" src="/images/icons/c2.png" alt="Icon">
                                 </div>
                                 <div class="content">
-                                    <h4>Email</h4>
+                                    <h4>E-mail</h4>
                                     <img class="line-icon" src="/images/shape/line-s1.png" alt="Icon">
                                     <a href="mailto://support@gmail.com">informes@ruwaytec.com</a>
                                 </div>
@@ -33,7 +33,7 @@
                                 <div class="content">
                                     <h4>Ubicación</h4>
                                     <img class="line-icon" src="/images/shape/line-s1.png" alt="Icon">
-                                    <p>Ca.Antonio Garland 625 - SMP <br>Lima, PERÚ</p>
+                                    <p>Ca. Antonio Garland 625 - SMP <br>Lima, PERÚ</p>
                                 </div>
                             </div>
                         </div>
@@ -49,12 +49,12 @@
                             <n-link to="/" class="footer-logo">
                                 <img src="/images/logo/logo_RUWAY.png" alt="Logo">
                             </n-link>
-                            <p>Para estar al día con nuestras actualizaciones y publicaciones de trabajos.</p>
+                            <p>Para estar al día con nuestras actualizaciones y publicaciones de proyectos.</p>
                             <div class="widget-newsletter">
                                 <form>
-                                    <input type="email" class="form-control" placeholder="Enter your email">
+                                    <input type="email" class="form-control" placeholder="Introduce tu correo">
                                     <button type="submit" class="btn btn-theme">
-                                        Subscribete ahora<i class="icon icofont-long-arrow-right"></i>
+                                        Regístrate ahora<i class="icon icofont-long-arrow-right"></i>
                                     </button>
                                 </form>
                             </div>
@@ -99,7 +99,7 @@
                 </div>
                 <div class="col-md-4 col-lg-2 col-xl-2 lg-pr-0">
                     <div class="widget-item menu-wrap-column">
-                        <h4 class="widget-title">Enlases útiles</h4>
+                        <h4 class="widget-title">Enlaces útiles</h4>
                         <img class="line-shape" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                         <nav class="widget-menu-wrap">
                             <ul class="nav-menu nav">
@@ -120,13 +120,13 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 order-2 order-md-1">
                             <div class="widget-copyright">
-                                <p>© 2022 <span>RUWAY TEC</span><i class="icofont-heart"></i>by <a href="#">ruway tec</a></p>
+                                <p>© 2022 <span>RUWAY TEC</span><i class="icofont-heart"></i>por <a href="#">ruway tec</a></p>
                             </div>
                         </div>
                         <div class="col-md-6 order-1 order-md-2">
                             <div class="widget-social-icons">
                                 <a href="https://www.facebook.com/profile.php?id=100063552639710" target="_blank"><i class="icofont-facebook"></i></a>
-                                <a href="#" target="_blank"><i class="icofont-whatsapp"></i></a>
+                                <a href="https://www.facebook.com/profile.php?id=100063552639710" target="_blank"><i class="icofont-whatsapp"></i></a>
                                 <a href="https://www.linkedin.com/company/80447477" target="_blank"><i class="icofont-instagram"></i></a>
                                 <a href="https://www.linkedin.com/company/80447477" target="_blank"><i class="icofont-linkedin"></i></a>
                             </div>

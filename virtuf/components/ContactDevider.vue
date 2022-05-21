@@ -9,7 +9,7 @@
                                 <img src="/images/shape/line1.png" alt="shape">
                                 <h5>Contactanos.</h5>
                             </div>
-                            <h2 class="title">Contáctenos para cualquier información de nuestra <span class="bottom-style">Empresa.</span></h2>
+                            <h2 class="title">¿Tienes un proyecto en mente? Nosotros tenemos la <span class="bottom-style"> Solución.</span></h2>
                         </div>
                     </div>
                 </div>

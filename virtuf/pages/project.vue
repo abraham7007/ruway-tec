@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageTitle title="Projects" breadcrumbTitle="Projects" />
+        <PageTitle title="Proyectos" breadcrumbTitle="Proyectos" />
 
         <PortfolioWrapper />
 

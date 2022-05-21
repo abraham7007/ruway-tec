@@ -4,7 +4,7 @@
             <div class="home-slider-container">
                 <swiper :options="swiperOptions">
                     <!-- Start Slide Item -->
-                    <div class="swiper-slide home-slider-item" :style="{ backgroundImage: `url('/images/slider/bg1.jpg')` }">
+                    <div class="swiper-slide home-slider-item" :style="{ backgroundImage: `url('/images/slider/bg2.jpg')` }">
                         <div class="slider-content-area">
                             <div class="content">
                                 <div class="subtitle-content">
@@ -19,24 +19,9 @@
                             </div>
                             <div class="layer-style">
                                 <div class="thumb">
-                                    <img src="/images/slider/iot.png" alt="Images">
-                                </div>
+                                    <img src="/images/slider/1.png" alt="Images">
+                                </div>                                
                                 <div class="success-rate"><div class="content">98% <span>Proyectos Exitosos</span></div></div>
-                                <div class="trusted-clients-content">
-                                    <span>Nuestros <br>Clientes</span>
-                                    <ul class="clients-list">
-                                        <li><img src="/images/testimonial/clients1.png" alt="Images"></li>
-                                        <li><img src="/images/testimonial/clients2.png" alt="Images"></li>
-                                        <li><img src="/images/testimonial/clients3.png" alt="Images"></li>
-                                        <li><img src="/images/testimonial/clients4.png" alt="Images"> <span>100+</span></li>
-                                    </ul>
-                                </div>
-                                <div class="shape-style1">
-                                    <img src="/images/shape/1.png" alt="Images">
-                                </div>
-                                <div class="shape-style2">
-                                    <img src="/images/shape/2.png" alt="Images">
-                                </div>
                                 <div class="shape-style3">
                                     <img src="/images/shape/3.png" alt="Images">
                                 </div>
@@ -51,7 +36,7 @@
                     </div>
                     <!-- End Slide Item -->
                     <!-- Start Slide Item -->
-                    <div class="swiper-slide home-slider-item" :style="{ backgroundImage: `url('/images/slider/bg1.jpg')` }">
+                    <div class="swiper-slide home-slider-item" :style="{ backgroundImage: `url('/images/slider/bg3.jpg')` }">
                         <div class="slider-content-area">
                             <div class="content">
                                 <div class="subtitle-content">
@@ -69,21 +54,6 @@
                                     <img src="/images/slider/2.jpg" alt="Images">
                                 </div>
                                 <div class="success-rate"><div class="content">98% <span>Proyectos Exitosos</span></div></div>
-                                <div class="trusted-clients-content">
-                                    <span> Nuestros<br>Clientes</span>
-                                    <ul class="clients-list">
-                                        <li><img src="/images/testimonial/clients1.png" alt="Images"></li>
-                                        <li><img src="/images/testimonial/clients2.png" alt="Images"></li>
-                                        <li><img src="/images/testimonial/clients3.png" alt="Images"></li>
-                                        <li><img src="/images/testimonial/clients4.png" alt="Images"> <span>100+</span></li>
-                                    </ul>
-                                </div>
-                                <div class="shape-style1">
-                                    <img src="/images/shape/1.png" alt="Images">
-                                </div>
-                                <div class="shape-style2">
-                                    <img src="/images/shape/2.png" alt="Images">
-                                </div>
                                 <div class="shape-style3">
                                     <img src="/images/shape/3.png" alt="Images">
                                 </div>

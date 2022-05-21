@@ -22,15 +22,15 @@
                 features: [
                     {
                         iconSrc: "/images/icons/f1.png",
-                        title: "Who We Are?"
+                        title: "¿Quienes Somos?"
                     },
                     {
                         iconSrc: "/images/icons/f2.png",
-                        title: " Mission & Vission"
+                        title: " Misión & Visión"
                     },
                     {
                         iconSrc: "/images/icons/f3.png",
-                        title: "What We Do?"
+                        title: "¿Qué hacemos?"
                     },
                 ]
             }

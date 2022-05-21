@@ -5,11 +5,11 @@
                 <div class="col-lg-12">
                     <div class="section-title text-center" data-aos="fade-up" data-aos-duration="1000">
                         <div class="portfolio-filter-menu mb-0">
-                            <button data-filter="all">All ProjectS</button>
-                            <button data-filter=".business">Business</button>
-                            <button data-filter=".marketing">Marketing</button>
-                            <button data-filter=".consulting"> Consulting</button>
-                            <button data-filter=".digital">Digital Marketing</button>
+                            <button data-filter="all">Todos los proyectos</button>
+                            <button data-filter=".business">Automatización</button>
+                            <button data-filter=".marketing">Internet de las Cosas</button>
+                            <button data-filter=".consulting">Biomédica</button>
+                            <button data-filter=".digital">Fabricación Digital</button>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="portfolio-footer text-center" data-aos="fade-up" data-aos-duration="1300">
-                <n-link to="/project-details" class="btn btn-theme btn-lg mb-1">Load More</n-link>
+                <n-link to="/project-details" class="btn btn-theme btn-lg mb-1">Cargar más</n-link>
             </div>
         </div>
     </section>
@@ -52,8 +52,8 @@
 
                 portfolios: [
                     {
-                        imgSrc: "/images/portfolio/1.jpg",
-                        title: "Business Management",
+                        imgSrc: "/images/portfolio/track.jpg",
+                        title: "Sistema IoT para tracking de camiones mineros",
                         category: "business"
                     },
                     {

@@ -5,11 +5,11 @@
 
         <OffCanvasMobileMenu />
 
-        <PageTitle title="Contact Us" breadcrumbTitle="Contact" />
+        <PageTitle title="Contacto" breadcrumbTitle="Contact" />
 
         <ContactWrapper />
 
-        <FooterTwo />
+        <Footer />
 
         <client-only>
             <back-to-top class="scroll-top" bottom="30px">
