@@ -25,51 +25,51 @@
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
                                         <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/das1.jpg')` }">
-                                            <n-link to="/portfolio-details"></n-link>
+                                            <n-link to="/project"></n-link>
                                         </div>
                                         <div class="portfolio-info">
                                             <div class="content">
                                                 <img class="shape-line-img" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                                                 <h3 class="title">
-                                                    <n-link to="/portfolio-details">Desarrollo de equipos  & Biomédicos.</n-link>
+                                                    <n-link to="/project">Desarrollo de equipos  & Biomédicos.</n-link>
                                                 </h3>
-                                                <n-link to="/portfolio-details" class="category">Ingeniería / Biomédica</n-link>
+                                                <n-link to="/project" class="category">Ingeniería / Biomédica</n-link>
                                             </div>
-                                            <n-link to="/portfolio-details" class="btn btn-theme btn-border btn-portfolio">Ver Detalles <i class="icon icofont-long-arrow-right"></i></n-link>
+                                            <n-link to="/project" class="btn btn-theme btn-border btn-portfolio">Ver más <i class="icon icofont-long-arrow-right"></i></n-link>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
                                         <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/das2.jpg')` }">
-                                            <n-link to="/portfolio-details"></n-link>
+                                            <n-link to="/project"></n-link>
                                         </div>
                                         <div class="portfolio-info">
                                             <div class="content">
                                                 <img class="shape-line-img" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                                                 <h3 class="title">
-                                                    <n-link to="/portfolio-details">Prototipado ágil & Fabricación digital.</n-link>
+                                                    <n-link to="/project">Prototipado ágil & Fabricación digital.</n-link>
                                                 </h3>
-                                                <n-link to="/portfolio-details" class="category">Innovación / Manufactura</n-link>
+                                                <n-link to="/project" class="category">Innovación / Manufactura</n-link>
                                             </div>
-                                            <n-link to="/portfolio-details" class="btn btn-theme btn-border btn-portfolio">Ver Detalles <i class="icon icofont-long-arrow-right"></i></n-link>
+                                            <n-link to="/poject" class="btn btn-theme btn-border btn-portfolio">Ver más <i class="icon icofont-long-arrow-right"></i></n-link>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
                                         <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/das3.jpg')` }">
-                                            <n-link to="/portfolio-details"></n-link>
+                                            <n-link to="/project"></n-link>
                                         </div>
                                         <div class="portfolio-info">
                                             <div class="content">
                                                 <img class="shape-line-img" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                                                 <h3 class="title">
-                                                    <n-link to="/portfolio-details">Desarrollos de equipos veterinarios & ventilación mecánica.</n-link>
+                                                    <n-link to="/project">Desarrollos de equipos veterinarios & ventilación mecánica.</n-link>
                                                 </h3>
-                                                <n-link to="/portfolio-details" class="category">Ingeniería / Biomédica</n-link>
+                                                <n-link to="/project" class="category">Ingeniería / Biomédica</n-link>
                                             </div>
-                                            <n-link to="/portfolio-details" class="btn btn-theme btn-border btn-portfolio">View Details <i class="icon icofont-long-arrow-right"></i></n-link>
+                                            <n-link to="/project" class="btn btn-theme btn-border btn-portfolio">Ver más <i class="icon icofont-long-arrow-right"></i></n-link>
                                         </div>
                                     </div>
                                 </div>
@@ -77,17 +77,17 @@
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
                                         <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/das4.jpg')` }">
-                                            <n-link to="/portfolio-details"></n-link>
+                                            <n-link to="/project"></n-link>
                                         </div>
                                         <div class="portfolio-info">
                                             <div class="content">
                                                 <img class="shape-line-img" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                                                 <h3 class="title">
-                                                    <n-link to="/portfolio-details">Fabricación digital de robots educativos & diseño 3D.</n-link>
+                                                    <n-link to="/project">Fabricación digital de robots educativos & diseño 3D.</n-link>
                                                 </h3>
-                                                <n-link to="/portfolio-details" class="category">Ingeniería / Manufactura Diggital</n-link>
+                                                <n-link to="/project" class="category">Ingeniería / Manufactura Diggital</n-link>
                                             </div>
-                                            <n-link to="/portfolio-details" class="btn btn-theme btn-border btn-portfolio">Ver Detalles <i class="icon icofont-long-arrow-right"></i></n-link>
+                                            <n-link to="/project" class="btn btn-theme btn-border btn-portfolio">Ver más <i class="icon icofont-long-arrow-right"></i></n-link>
                                         </div>
                                     </div>
                                 </div>
@@ -95,17 +95,17 @@
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
                                         <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/das5.jpg')` }">
-                                            <n-link to="/portfolio-details"></n-link>
+                                            <n-link to="/project"></n-link>
                                         </div>
                                         <div class="portfolio-info">
                                             <div class="content">
                                                 <img class="shape-line-img" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                                                 <h3 class="title">
-                                                    <n-link to="/portfolio-details">Implementación de equipo biométrico & control de asistencia.</n-link>
+                                                    <n-link to="/project">Implementación de equipo biométrico & control de asistencia.</n-link>
                                                 </h3>
-                                                <n-link to="/portfolio-details" class="category">Innovación / Biomédica</n-link>
+                                                <n-link to="/project" class="category">Innovación / Biomédica</n-link>
                                             </div>
-                                            <n-link to="/portfolio-details" class="btn btn-theme btn-border btn-portfolio">Ver Detalles <i class="icon icofont-long-arrow-right"></i></n-link>
+                                            <n-link to="/project" class="btn btn-theme btn-border btn-portfolio">Ver más <i class="icon icofont-long-arrow-right"></i></n-link>
                                         </div>
                                     </div>
                                 </div>
@@ -113,17 +113,17 @@
                                 <div class="swiper-slide portfolio-item">
                                     <div class="inner-content">
                                         <div class="thumb" :style="{ backgroundImage: `url('/images/portfolio/das6.jpg')` }">
-                                            <n-link to="/portfolio-details"></n-link>
+                                            <n-link to="/project"></n-link>
                                         </div>
                                         <div class="portfolio-info">
                                             <div class="content">
                                                 <img class="shape-line-img" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                                                 <h3 class="title">
-                                                    <n-link to="/portfolio-details">Sistema de telemetría basados en LoRaWAN & Microcontrolador ARM STM32.</n-link>
+                                                    <n-link to="/project">Sistema de telemetría basados en LoRaWAN & Microcontrolador ARM STM32.</n-link>
                                                 </h3>
-                                                <n-link to="/portfolio-details" class="category">Ingeniería / Internet of Things</n-link>
+                                                <n-link to="/project" class="category">Ingeniería / Internet of Things</n-link>
                                             </div>
-                                            <n-link to="/portfolio-details" class="btn btn-theme btn-border btn-portfolio">Ver Detalles <i class="icon icofont-long-arrow-right"></i></n-link>
+                                            <n-link to="/project" class="btn btn-theme btn-border btn-portfolio">Ver Detalles <i class="icon icofont-long-arrow-right"></i></n-link>
                                         </div>
                                     </div>
                                 </div>

@@ -11,9 +11,9 @@
                     <div class="section-title xs-text-center" data-aos="fade-up" data-aos-duration="1000">
                         <div class="subtitle-content xs-d-i-flex">
                             <img src="/images/shape/line1.png" alt="Virtuf-HasTech">
-                            <h5>Testimonial</h5>
+                            <h5>Visión & Misión</h5>
                         </div>
-                        <h2 class="title">Happy Clients. They Are Think <span>About Us.</span></h2>
+                        <h2 class="title">Nuestra <span>Visión.</span></h2>
                         <div class="separator-line">
                             <img src="/images/shape/line1.png" alt="Virtuf-HasTech">
                             <img src="/images/shape/line2.png" alt="Virtuf-HasTech">
@@ -70,7 +70,7 @@
                         name: "Reinaldo Thurman",
                         designation: "Senior Consultant",
                         imgSrc: "/images/icons/t1.png",
-                        desc: "It is long established fact that reader will distract by the readable content a page when looking atten layout. The point of using  and that it has a more normal distribution of letters, as opposed using making it look like readable English."
+                        desc: "Ser Socio estratégico para el desarrollo industrial, brindando asesoría profesional, comprometidos con el desarrollo sostenible del país."
                     },
                     {
                         name: "Jannat Maya",

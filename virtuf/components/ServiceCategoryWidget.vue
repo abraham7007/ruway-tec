@@ -1,6 +1,6 @@
 <template>
     <div class="widget" data-aos="fade-up" data-aos-duration="1000">
-        <h3 class="widget-title">Service Category</h3>
+        <h3 class="widget-title">Categoría de Servicios</h3>
         <div class="separator-line">
             <img class="me-1" src="/images/shape/line-s2.png" alt="Image-HasTech">
             <img src="/images/shape/line-s1.png" alt="Image-HasTech">
@@ -18,7 +18,7 @@
     export default {
         data() {
             return {
-                categories: ['Business Management', 'Web Development', 'Digital Marketing', 'User Interface Design']
+                categories: ['Desarrollo de Hardware', 'Software Industrial', 'Automatización', 'Fabricación digital', 'Instrumentación & Control','Dibujo Mecánico','Diseño Electrónico','Desarrollo Web & Móvil','Calibración de Sensores','Internet de las Cosas']
             }
         },
     };

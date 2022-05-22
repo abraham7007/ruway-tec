@@ -17,14 +17,12 @@
 
         <BrandLogoSection />
 
-        <TestimonialOne />
-
         <ContactDevider /> 
 
         <Footer />
 
         <client-only>
-            <back-to-top class="scroll-top" bottom="30px">
+            <back-to-top class="scroll-top" bottom="35px">
                 <i class="arrow-top icofont-rounded-up"></i>
                 <i class="arrow-bottom icofont-rounded-up"></i>
             </back-to-top>
@@ -44,7 +42,6 @@
             FunFactOne: () => import('@/components/FunFactOne'),
             TeamSection: () => import('@/components/TeamSection'),
             BrandLogoSection: () => import('@/components/BrandLogoSection'),
-            TestimonialOne: () => import('@/components/TestimonialOne'),
             ContactDevider: () => import('@/components/ContactDevider'),
             Footer: () => import('@/components/Footer'),
         },

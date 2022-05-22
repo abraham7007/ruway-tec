@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageTitle title="Business Consulting" breadcrumbTitle="Service Details" />
+        <PageTitle title="Detalle de Servicios" breadcrumbTitle="Detalle de Servicios" />
 
         <ServiceDetailsWrapper />
 

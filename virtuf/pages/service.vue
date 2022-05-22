@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageTitle title="Services" breadcrumbTitle="Services" />
+        <PageTitle title="Servicios" breadcrumbTitle="Servicios"  />
 
         <ServiceWrapper />
 

@@ -15,9 +15,9 @@
         </div>
         <div class="page-sidebar" data-aos="fade-right" data-aos-duration="1100">
             <div class="social-icon">
-                <a href="#"><i class="icofont-facebook"></i></a>
-                <a href="#"><i class="icofont-skype"></i></a>
-                <a href="#"><i class="icofont-twitter"></i></a>
+                <a href="https://m.facebook.com/profile.php?id=100063552639710"><i class="icofont-facebook"></i></a>
+                <a href="https://www.linkedin.com/company/80447477"><i class="icofont-instagram"></i></a>
+                <a href="https://www.linkedin.com/company/80447477"><i class="icofont-linkedin"></i></a>
             </div>
         </div>
         <div class="layer-shape">

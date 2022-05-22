@@ -3,63 +3,54 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_0e046ab0"
+    "chunkName": "pages/about"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\blog.vue",
-    "chunkName": "pages/blog",
-    "_name": "_67eb10cf"
+    "chunkName": "pages/blog"
   },
   {
     "name": "blog-details",
     "path": "/blog-details",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\blog-details.vue",
-    "chunkName": "pages/blog-details",
-    "_name": "_304cfcc4"
+    "chunkName": "pages/blog-details"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_bddd59fa"
+    "chunkName": "pages/contact"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\project.vue",
-    "chunkName": "pages/project",
-    "_name": "_669c557c"
+    "chunkName": "pages/project"
   },
   {
     "name": "project-details",
     "path": "/project-details",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\project-details.vue",
-    "chunkName": "pages/project-details",
-    "_name": "_4db94471"
+    "chunkName": "pages/project-details"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_2bb0a318"
+    "chunkName": "pages/service"
   },
   {
     "name": "service-details",
     "path": "/service-details",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\service-details.vue",
-    "chunkName": "pages/service-details",
-    "_name": "_a43793e6"
+    "chunkName": "pages/service-details"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Abraham CASO TORRES\\\\development\\\\ruwaytec\\\\virtuf\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_2dbc4575"
+    "chunkName": "pages/index"
   }
 ]

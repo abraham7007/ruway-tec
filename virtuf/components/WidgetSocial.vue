@@ -1,6 +1,6 @@
 <template>
     <div class="widget" data-aos="fade-up" data-aos-duration="1200">
-        <h3 class="widget-title">Share Now.</h3>
+        <h3 class="widget-title">Comparte ahora.</h3>
         <div class="separator-line">
             <img class="me-1" src="/images/shape/line-s2.png" alt="Image-HasTech">
             <img src="/images/shape/line-s1.png" alt="Image-HasTech">

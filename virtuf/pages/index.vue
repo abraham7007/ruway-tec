@@ -19,11 +19,7 @@
 
         <PortfolioSection />
 
-        <TestimonialOne />
-
         <BrandLogoSection />
-
-        <BlogSection />
 
         <ContactDevider />
 
@@ -51,9 +47,7 @@
             FaqOne: () => import('@/components/FaqOne'),
             TeamSection: () => import('@/components/TeamSection'),
             PortfolioSection: () => import('@/components/PortfolioSection'),
-            TestimonialOne: () => import('@/components/TestimonialOne'),
             BrandLogoSection: () => import('@/components/BrandLogoSection'),
-            BlogSection: () => import('@/components/BlogSection'),
             ContactDevider: () => import('@/components/ContactDevider'),
             Footer: () => import('@/components/Footer'),
         },

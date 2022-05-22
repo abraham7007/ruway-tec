@@ -2,7 +2,7 @@
     <div class="widget" data-aos="fade-up" data-aos-duration="1100">
         <div class="widget-video">
             <div class="thumb">
-                <img src="/images/photos/sidebar-video1.jpg" alt="video image">
+                <img src="/images/photos/video.jpg" alt="video image">
             </div>
 
             <CoolLightBox 
@@ -33,7 +33,7 @@
             return {
                 items: [
                     {
-                        src: "https://www.youtube.com/watch?v=eS9Qm4AOOBY",
+                        src: "https://www.youtube.com/watch?v=Z2DK6QJX1rs",
                         autoplay: true
                     },
                 ],

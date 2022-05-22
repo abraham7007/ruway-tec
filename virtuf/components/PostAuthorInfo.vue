@@ -8,7 +8,7 @@
             <img class="line-shape" src="/images/shape/line-s1.png" alt="image">
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industr standard dummy text ever since the 1500swhean an unknown printer took an galley of type and scrambled.</p>
             <div class="social-icons">
-                <a href="#"><i class="icofont-facebook"></i></a>
+                <a href="https://m.facebook.com/profile.php?id=100063552639710"><i class="icofont-facebook"></i></a>
                 <a href="#"><i class="icofont-skype"></i></a>
                 <a href="#"><i class="icofont-instagram"></i></a>
             </div>

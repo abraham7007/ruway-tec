@@ -7,9 +7,9 @@
                         <div class="section-title">
                             <div class="subtitle-content">
                                 <img src="/images/shape/line1.png" alt="shape">
-                                <h5>Contactanos.</h5>
+                                <h5>Contáctanos.</h5>
                             </div>
-                            <h2 class="title">¿Tienes un proyecto en mente? Nosotros tenemos la <span class="bottom-style"> Solución.</span></h2>
+                            <h2 class="title">¿Tienes un proyecto en mente?. Nosotros tenemos la <span class="bottom-style"> Solución.</span></h2>
                         </div>
                     </div>
                 </div>
