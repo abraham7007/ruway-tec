@@ -1,2 +1,2 @@
 # ruway-tec
-pagina web para ROWAY TEC 
+pagina web para RUWAY TEC 
