@@ -20,6 +20,7 @@
                     <div class="team-slider-content" data-aos="fade-up" data-aos-duration="1200">
                         <div class="team-slider-container">
                             <swiper :options="swiperOptions">
+
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
                                         <img src="/images/team/nilton.jpg" alt="Image">
@@ -58,6 +59,7 @@
                                         <img class="shape-style3" src="/images/shape/10.png" alt="Image">
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
                                         <img src="/images/team/jose.jpg" alt="Image">
@@ -96,6 +98,8 @@
                                         <img class="shape-style3" src="/images/shape/10.png" alt="Image">
                                     </div>
                                 </div>
+
+
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
                                         <img src="/images/team/brayan.jpg" alt="Image">
@@ -134,6 +138,8 @@
                                         <img class="shape-style3" src="/images/shape/10.png" alt="Image">
                                     </div>
                                 </div>
+
+
                                 <div class="swiper-slide team-member">
                                     <div class="thumb">
                                         <img src="/images/team/abraham.jpg" alt="Image">
@@ -172,45 +178,8 @@
                                         <img class="shape-style3" src="/images/shape/10.png" alt="Image">
                                     </div>
                                 </div>
-                                <div class="swiper-slide team-member">
-                                    <div class="thumb">
-                                        <img src="/images/team/juan.jpg" alt="Image">
-                                    </div>
-                                    <div class="content">
-                                        <div class="member-info">
-                                            <div class="separator-line">
-                                                <img src="/images/shape/line-s1.png" alt="Images">
-                                            </div>
-                                            <h4 class="name">Juan Camarena</h4>
-                                            <h6 class="designation">Especialista en Sistemas</h6>
-                                            <!-- Start Progress Item -->
-                                            <div class="progress-item">
-                                                <div class="progress-line">
-                                                    <div class="progress-bar-line" style="width: 80%">
-                                                        <span class="percent">80%</span>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-info">
-                                                    <span class="title">Redes Industriales</span>
-                                                </div>
-                                                <div class="progress-line">
-                                                    <div class="progress-bar-line" style="width: 85%">
-                                                        <span class="percent">85%</span>
-                                                    </div>
-                                                </div>
-                                                <div class="progress-info">
-                                                    <span class="title">Automatización</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="shape-style">
-                                        <img class="shape-style1" src="/images/shape/8.png" alt="Image">
-                                        <img class="shape-style2" src="/images/shape/9.png" alt="Image">
-                                        <img class="shape-style3" src="/images/shape/10.png" alt="Image">
-                                    </div>
-                                </div>
+                                
+
                             </swiper>
                         </div>
                     </div>
